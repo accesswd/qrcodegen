@@ -4,4 +4,4 @@ services:
   qr-code-api:
     build: .
     ports:
-      - "4006:5000"
+      - "5000:5000"
